@@ -1,7 +1,5 @@
 # Library-Management-System-using-SQL
 
-```markdown
-# Library Management System (SQL Project)
 
 **A fully‑functional relational database for a library, implemented in PostgreSQL, with CRUD operations, advanced analytical queries, and automated stored procedures.**
 
@@ -76,4 +74,4 @@ The following 20 tasks were executed. Key insights are highlighted.
 - **Stored procedure `issue_book`:** Checks availability, issues book, and updates status to 'no' – prevents double‑booking.
 - **Overdue fines CTAS:** Calculated total fines ($0.50/day) per member for overdue books – a potential revenue stream.
 
-
+---
